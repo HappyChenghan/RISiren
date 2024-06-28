@@ -12,3 +12,5 @@ numpy 1.23.5
 tensorflow 2.5.0
 ---
 mkl-random 1.2.2
+---- 
+The CNN sturacture can be observed in "Wi-Fi-Based Fall Detection Using Spectrogram Image of Channel State Information"
