@@ -1,4 +1,4 @@
-# RFSiren - CCS24'
+# RFSiren
 ---
 Beamforming and Nullforming coding configurations codes:
 ---
