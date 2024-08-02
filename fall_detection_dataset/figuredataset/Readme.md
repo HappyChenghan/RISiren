@@ -1,6 +1,6 @@
 The dataset.zip is adapt for using the spectrogram image of CSI to detect falling. 
 ---
-Each sub-folder contain a kind of activity. The size of dataset is light because of the obvious difference features
+Each sub-folder contain a kind of activity. 
 ---
 
 If you want to use the dataset, you can use the datasetProcess.ipynb to load and divide the dataset into train and test data.
