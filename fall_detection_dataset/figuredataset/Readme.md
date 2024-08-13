@@ -2,7 +2,7 @@
 
 Each sub-folder contain a kind of activity. 
 
-If you want to use the dataset, you can use the datasetProcess.ipynb to load and divide the dataset into train and test data.
+If you want to use the dataset, you can use the datasetProcess.ipynb to quickly load and divide the dataset into train and test data.
 
 The requirement of environment is as follows:
 
